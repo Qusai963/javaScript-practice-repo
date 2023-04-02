@@ -1,0 +1,2 @@
+# What is Array?
+In JavaScript, an array is a special type of object that is used to store a collection of values, where each value can be of any type (including other arrays and objects). Arrays are created using square brackets [ ], and each value in the array is separated by a comma.
