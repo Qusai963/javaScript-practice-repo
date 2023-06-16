@@ -1,0 +1,3 @@
+# What are prototypes in Js?
+
+In JavaScript, prototypes are used to implement inheritance between objects. Every object in JavaScript has a prototype property, which points to another object that it inherits properties and methods from. When a property or method is accessed on an object, JavaScript will first check if that property or method exists on the object itself. If it doesn't exist, JavaScript will look for it on the object's prototype, and if it still can't find it, it will look on the prototype's prototype, and so on, until it either finds the property or method or reaches the end of the prototype chain.
